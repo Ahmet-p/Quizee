@@ -1,6 +1,6 @@
 # Quizee
 12-question quiz application with a user-friendly interface, built with Python and Tkinter.
-## technologies 
+## Technologies 
  Python, Tkinter
 ## Requirements
 - Python 3.11 or later
